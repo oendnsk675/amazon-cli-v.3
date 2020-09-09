@@ -23,7 +23,7 @@ kalau kurang jelas bisa cek di channel youtube eastlombok team :
 2. setelah install xampp di device kalian,buka folder xampp/htdocs.
 2. clone tool di github di dalam folder github.
 ```bash
-git clone https://github.com/oendnsk675/amazon-cli-v2.2.git
+git clone https://github.com/oendnsk675/amazon-cli-v.3
 ```
 4. atau juga bisa download zipnya.
 5. done.... tinggal di buka toolnya.
