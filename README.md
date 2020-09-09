@@ -10,7 +10,7 @@ Tool amazon cli v3 dari eastlombok team,di buat oleh sayidina ahmadal qososyi,to
 ```
 2. clone tool di github.
 ```bash
-git clone https://github.com/oendnsk675/amazon-cli-v2.2.git
+git clone https://github.com/oendnsk675/amazon-cli-v.3
 ```
 3. done.... tinggal di buka toolnya.
 
